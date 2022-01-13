@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Borjaarmet
-- 👀 I’m interested in ...
+- 👀 I’m interested in learn new technologies and create amazing projects
 - 🌱 I’m currently learning all about React
 - 💞️ I’m looking to collaborate on open source/commercial projects
 - 📫 How to reach me: facebook, instagram, linkedin
